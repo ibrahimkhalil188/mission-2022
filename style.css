@@ -16,7 +16,7 @@ h1{
     font-size: 40px;
     margin-left: 10px;
 }
-h2{
+.aqua-color{
     font-size: 38px;
     color: aqua;
     margin-left: 10px;
@@ -37,4 +37,37 @@ h2{
 
     padding: 8px 20px;
     color: white;
+}
+hr{
+    border-top: 1px solid;
+    margin-top: 50px;
+}
+.mission-title{
+    color: blue;
+    text-align: center;
+}
+.mission-item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+.mission{
+    border: 1px solid rgb(226, 168, 168);
+    width: 300px;
+    height: 430px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(168, 228, 222, 0.664);
+    box-shadow: 10px 10px 45px rgb(226, 168, 168);
+}
+.mission img {
+    width: 200px;
+
+}
+.vission{
+    background-color: rgba(238, 201, 238, 0.699);
+}
+.goal{
+    background-color: rgba(235, 162, 149, 0.568);
 }
