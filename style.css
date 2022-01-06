@@ -9,12 +9,8 @@ body{
 .head-section{
     display: flex;
     justify-content: space-around;
-    margin-left: 10px;
-    margin-right: 10px;
-    width:900px;
-    position: absolute;
-    left: 250px;
-    
+    margin-left: 150px;
+    margin-right: 150px;
 }
 h1{
     font-size: 40px;
