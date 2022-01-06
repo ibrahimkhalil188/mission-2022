@@ -133,10 +133,14 @@ hr{
     margin: 20px;
 }
 #social-icon a img{
-    text-decoration: none;
+    
     width: 60px;
     height: 60px;
     margin: 20px;
+
+}
+#social-icon a{
+    text-decoration: none;
 
 }
 
