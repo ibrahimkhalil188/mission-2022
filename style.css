@@ -109,3 +109,15 @@ hr{
     margin-left: 100px;
     text-align: justify;
 }
+
+
+
+
+footer{
+    height:150px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
